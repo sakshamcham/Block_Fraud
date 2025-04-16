@@ -1,0 +1,5 @@
+
+project_id = "mzltzlpklqrqcnooaksg"
+
+[functions.analyze-transaction]
+verify_jwt = true
